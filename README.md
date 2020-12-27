@@ -1,6 +1,6 @@
 # Django (basic)
 
-These are tutorial codes I've used for data visualization. All the codes are provided from the following lectures and books. I just modified those a bit to visualize the data I found interesting 
+These are tutorial codes I've used for learning django basic (to build a website I'm thinking of for ages). All the codes are provided from the following lectures and books. I just modified those a bit 
 
 # tutorials :
 - https://edu.goorm.io/learn/lecture/16377/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9E%A5%EA%B3%A0-django-%EB%BF%8C%EC%8B%9C%EA%B8%B0 초보자를 위한 django 뿌시기 
