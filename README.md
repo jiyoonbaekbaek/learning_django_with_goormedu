@@ -11,4 +11,4 @@ These are tutorial codes I've used for learning django basic (to build a website
 - jiyoonbaekbaek(01-03)
 
 # 04 :
-- 관리자 페이
+- CRUD 에 관리자 페이지 활용하기 
