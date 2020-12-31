@@ -12,3 +12,6 @@ These are tutorial codes I've used for learning django basic (to build a website
 
 # 04 :
 - CRUD 에 관리자 페이지 활용하기 
+
+# 05 :
+- HTML 띄우기 
