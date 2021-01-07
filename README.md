@@ -15,3 +15,6 @@ These are tutorial codes I've used for learning django basic (to build a website
 
 # 05 :
 - HTML 띄우기 
+
+# 06 :
+- 링크 타고 다른 페이지 넘어가기 
