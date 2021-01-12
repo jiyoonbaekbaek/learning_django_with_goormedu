@@ -18,3 +18,6 @@ These are tutorial codes I've used for learning django basic (to build a website
 
 # 06 :
 - 링크 타고 다른 페이지 넘어가기 
+
+# 07 :
+- 모든 html에 스타일 적용하기 
