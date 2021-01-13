@@ -21,3 +21,6 @@ These are tutorial codes I've used for learning django basic (to build a website
 
 # 07 :
 - 모든 html에 스타일 적용하기 
+
+# 08 : 
+- include로 HTML 소스 관리하기
