@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+{% include 'share/navbar.html' %}
+   <h1>
+       Hello Django !
+   </h1>
+   <a href='{% url "lovely:first" %}'>
+       first
+   </a>
+   <a href='{% url "lovely:second" %}'>
+       second
+   </a>
+   <a href='{% url "lovely:third" %}'>
+       third
+   </a>
+
+   <img src="{% static 'img/healing.png' %}" alt="2020년 맛집탐방">
+{% endblock %}
