@@ -24,3 +24,6 @@ These are tutorial codes I've used for learning django basic (to build a website
 
 # 08 : 
 - include로 HTML 소스 관리하기
+
+# 09 :
+- STATIC 개념과 정적 이미지 삽입
